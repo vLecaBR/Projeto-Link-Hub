@@ -55,6 +55,14 @@ body *{
     margin-top: 8px;
 }
 
+/*Sobre mim*/
+#sobre-mim{
+    padding: 20px;
+}
+#sobre-mim h1{
+    text-align: center;
+}
+
 /*Switch*/
 #switch{
     position: relative;
