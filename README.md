@@ -18,7 +18,7 @@ LinkHub, feito para agupamento de links de maneira prática e gratuita
 <br>
 
 <p align="center">
-  <img alt="" src="" width="100%">
+  <img alt="LinkHubImage" src="https://github.com/vLecaBR/Projeto-Link-Hub/blob/main/assets/LinkPage.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
