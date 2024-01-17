@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O LinkHub um projeto criado solo, é um hub de links para agrupa-los e disponibilizar-los de uma forma única e facilitada, e o melhor de tudo, GRATUITAMENTE!!!
+O [LinkHub](https://vlecabr.github.io/Projeto-Link-Hub/) um projeto criado solo, é um hub de links para agrupa-los e disponibilizar-los de uma forma única e facilitada, e o melhor de tudo, GRATUITAMENTE!!!
 
 ## 🔖 Layout
 
